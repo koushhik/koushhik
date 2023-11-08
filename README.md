@@ -1,4 +1,12 @@
-### Hi there 👋
+  ♣️ ♦️ ♠️ ❤️
+
+# This is Koushik Chinnappa T.K
+<em> Im am currently working on .NET application development using C Sharp.</em>
+
+<em> I do development of games with Unity game engine using C -Sharp.</em>
+
+<em> I am fluent in design and 2d-3d animation softwares :Figma ,Rive and Autodesk Maya.</em>
+
 
 <!--
 **koushhik/koushhik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
