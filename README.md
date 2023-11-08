@@ -7,8 +7,9 @@
 <em> I do development of 🎮 with Unity Game Engine using C-#️⃣.</em>
 
 <em> I am fluent in design and 2d-3d animation softwares :Figma ,Rive and Autodesk Maya.</em>
-###### 🏛️ I am currently working at :WebStorm Information Technology.
+###### 🏛️ I am currently working @ WebStorm Information Technology.
 
+![koushhik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushhik&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 
 <!--
