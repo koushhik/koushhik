@@ -9,7 +9,11 @@
 <em> I am fluent in design and 2d-3d animation softwares :Figma ,Rive and Autodesk Maya.</em>
 ###### 🏛️ I am currently working @ WebStorm Information Technology.
 
+![koushhik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=koushhik&theme=vue-dark&hide_border=true)
+
 ![koushhik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushhik&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+![koushhik's Stats](https://github-readme-stats.vercel.app/api?username=koushhik&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 
