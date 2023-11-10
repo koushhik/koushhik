@@ -2,6 +2,7 @@
 <h1>This is Koushik Chinnappa T.K</h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="200">
+
 <!--<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="200">-->
 
 <em> Im am currently working on .NET application development using C-#️⃣.</em>
