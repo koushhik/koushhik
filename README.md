@@ -22,9 +22,7 @@
 
 😆 FUN FACT : **"world maybe a square ,just dont waste your time in finding its radius..!"**
 
-![koushhik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushhik&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-
-![koushhik's Stats](https://github-readme-stats.vercel.app/api?username=koushhik&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![koushhik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushhik&theme=dracula&show_icons=true&hide_border=true&layout=compact)![koushhik's Stats](https://github-readme-stats.vercel.app/api?username=koushhik&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/koushik-chinnappa-182080183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/koushik-chinnappa-182080183/" height="30" width="40" /></a>
