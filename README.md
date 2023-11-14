@@ -1,8 +1,8 @@
-<p align = "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="200"></p>
-
 <h1 align="center">♣️ ♦️ ♠️ ❤️</h1>
 
 <h1 align="center">Hello there, I'm koushik Chinnappa T.K</h1>
+
+<p align = "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="200"></p>
 
 <h3 align="center">A passionate .NET Developer, with gud command in Unity game engine</h3>
 
