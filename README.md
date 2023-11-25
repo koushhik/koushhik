@@ -25,10 +25,10 @@
 ![koushhik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushhik&theme=dracula&show_icons=true&hide_border=true&layout=compact)![koushhik's Stats](https://github-readme-stats.vercel.app/api?username=koushhik&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## I LOVE STRANGE COMBO OF  ##
-<h3 🥷 JAPANESE -Anime </h3>
-<h3 📺 TURKISH -Drama </h3>
-<h3 🛕 INDIAN -90s Music </h3>
-<h3 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENGLISH -Movies </h3>
+##### 🥷 JAPANESE -Anime #####
+##### 📺 TURKISH -Drama #####
+##### 🛕 INDIAN -90s Music #####
+##### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENGLISH -Movies #####
 
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/koushik-chinnappa-182080183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/koushik-chinnappa-182080183/" height="30" width="40" /></a>
